@@ -11,7 +11,6 @@ public abstract class Shape {
 
 
     public Shape (){
-
     }
     public Shape (int a){
     this.a = a;
