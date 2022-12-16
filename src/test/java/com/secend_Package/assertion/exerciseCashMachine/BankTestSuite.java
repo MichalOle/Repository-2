@@ -6,13 +6,13 @@ import org.junit.jupiter.api.Test;
 
 public class BankTestSuite {
 
-    @Test
-    public void doItWorks(){
-        Bank bank = new Bank();
-        bank.addCashMachine(new CashMachine("Starachowice"));
-        bank.addCashMachine(new CashMachine("Ostrowiec"));
-        System.out.println(bank.getListOfCashMachinesValues());
-    }
+//    @Test
+//    public void doItWorks(){
+//        Bank bank = new Bank();
+//        bank.addCashMachine(new CashMachine("Starachowice"));
+//        bank.addCashMachine(new CashMachine("Ostrowiec"));
+//
+//    }
 
     }
 

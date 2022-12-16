@@ -1,2 +1,6 @@
 rootProject.name = 'JavaPierwszeTestowanie'
+include 'Collections'
+include 'Collections:untitled'
+findProject(':Collections:untitled')?.name = 'untitled'
+include 'untitled'
 
